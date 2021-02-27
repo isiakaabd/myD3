@@ -1,0 +1,11 @@
+body{
+    overflow: hidden;
+}
+.bar{
+    font-size: 10px;
+    fill: red;
+}
+.container{
+    width: 500px;
+    height: 600px;
+}
